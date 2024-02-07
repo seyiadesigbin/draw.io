@@ -1,9 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2024-02-07T12:16:22.771Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" version="23.1.1" etag="ImUjKkmhVjsI8OVhLe_O" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-07T13:04:11.518Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="xQwp5YNIciu7ayB0ggNp" version="23.1.1" type="github">
   <diagram name="Page-1" id="VJeo9Gto0SFVsE_sakND">
-    <mxGraphModel>
+    <mxGraphModel dx="794" dy="458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="uEPB3YpCCEUtuv16cIx1-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uEPB3YpCCEUtuv16cIx1-1" target="uEPB3YpCCEUtuv16cIx1-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uEPB3YpCCEUtuv16cIx1-1" value="User enters a letter" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="310" y="20" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uEPB3YpCCEUtuv16cIx1-2" value="If le" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="310" y="140" width="100" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
